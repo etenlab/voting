@@ -306,7 +306,7 @@ const withVoting = (
         };
 
         return (
-            <Stack>
+            <Stack spacing={4}>
                 {election &&
                     allFetched &&
                     props.electionProps.displayElection && <Election />}
