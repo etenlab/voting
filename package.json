@@ -38,6 +38,7 @@
     "@apollo/client": "^3.7.4",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@eten-lab/ui-kit": "^0.3.22",
     "@mui/material": "^5.11.5",
     "graphql": "^16.6.0",
     "lodash": "^4.17.21",

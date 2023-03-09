@@ -1,3 +1,5 @@
-import withVoting from './withVoting'
+import withVoting from "./withVoting";
+import withCreateQuestion from "./withCreateQuestion";
+import withSubmitQuestion from "./withSubmitQuestion";
 
-export { withVoting }
+export { withVoting, withCreateQuestion, withSubmitQuestion };
